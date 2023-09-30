@@ -19,7 +19,7 @@ Before you begin, ensure you have the following:
 
    ```bash
    git clone [https://github.com/jakojanes/webscraper-groceryprices.git](https://github.com/jakojanes/4chan-image-downloader.git)
-   cd Breadcrumbs4chan-image-downloader
+   cd 4chan-image-downloader
    gradle shadowJar
    java -jar <jar-file-name>.jar
 
