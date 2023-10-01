@@ -18,7 +18,7 @@ Before you begin, ensure you have the following:
 2. Compile the Java code. You can use your favorite Java IDE or compile it from the command line. Make sure to include the necessary dependencies.
 
    ```bash
-   git clone [https://github.com/jakojanes/webscraper-groceryprices.git](https://github.com/jakojanes/4chan-image-downloader.git)
+   git clone https://github.com/jakojanes/4chan-image-downloader.git
    cd 4chan-image-downloader
    gradle shadowJar
    java -jar <jar-file-name>.jar
